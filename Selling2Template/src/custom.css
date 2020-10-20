@@ -1,0 +1,17 @@
+    .submenu {
+    	left: -170px !important;
+    }
+
+    .topic-box {
+    	text-align: center;
+    	border-radius: 3px;
+    	box-shadow: 6px 6px 7px 0px rgba(130, 125, 130, 0.5);
+    }
+
+    .topic-box a {
+    	font-weight: 400 !important;
+    }
+
+    .vs {
+    	text-align: center;
+    }
