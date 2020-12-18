@@ -1,21 +1,44 @@
-# coffee_break_landing
+**MonitorCRO Web Sitesi Readme.md Raporu**
 
-> A Vue.js Project
+**Genel Özet:**
 
-## Build Setup
+MonitorCRO Web Sitesi, MonitorCRO şirketi için yapılan ve şirket hakkındaki bilgileri, şirketin yaptığı araştırmalar hakkındaki bilgileri ve de şirketin kurucuları & iletişim bilgileri vs. hakkındaki bilgileri içeren bir şirket açılış sayfasıdır.
 
-``` bash
-# install dependencies
-npm install
+**Bu proje nasıl indirilir?**
 
-# serve with hot reload at localhost:8080
-npm run dev
+Bu projeyi GitHub sitesindeki linkin download kısmından indirebilirsiniz.
 
-# build for production with minification
-npm run build
+**Bu proje nasıl çalıştırılır?**
 
-# build for production and view the bundle analyzer report
-npm run build --report
-```
+Bu proje, Microsoft Visual Studio (Windows) veya Eclipse (Apple MacBook) platformlarında terminal üzerinden çalıştırılabilir. Microsoft Visual Studio (Windows) için uygun terminal komutları aşağıdaki gibidir:
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+* cd projenin tam path’i
+
+* dir
+
+* yarn dev
+
+Eclipse (Apple MacBook) için ise uygun terminal komutları aşağıdaki gibidir:
+
+* cd projenin tam path’i
+
+* ls
+
+* npm run serve
+
+**Projeyi geliştirirken kullandığım teknolojiler:**
+
+Eclipse (Apple MacBook) platformu
+
+Microsoft Visual Studio (Windows) platformu
+
+Vue.js programlama dili
+
+HTML/CSS programlama dili
+
+**Projeye eklemek istediklerim:**
+
+MonitorCRO patronları Oğuz Akbaş ile Nurşan Özaykut Gün, ve MonitorCRO ekibindeki üstlerim tarafından belirlenecek komutlara göre eklemeler yapılacaktır.
+
+**Projeyi geliştirenler:**  
+Kayacan Kavaklı
